@@ -1,0 +1,62 @@
+{
+  "Questoes": [
+    {
+      "Enunciado": "Qual a fórmula da água?",
+      "Alternativas": [
+        {
+          "Label": "A",
+          "Texto": "H2O2"
+        },
+        {
+          "Label": "B",
+          "Texto": "H2O"
+        },
+        {
+          "Label": "C",
+          "Texto": "NACL"
+        },
+        {
+          "Label": "D",
+          "Texto": "H2C"
+        },
+        {
+          "Label": "E",
+          "Texto": "O2"
+        }
+      ],
+      "Correta": {
+        "Label": "B",
+        "Texto": "H2O"
+      }
+    },
+    {
+      "Enunciado": "Quem descobriu o Brasil?",
+      "Alternativas": [
+        {
+          "Label": "A",
+          "Texto": "Pero Vaz de Caminha"
+        },
+        {
+          "Label": "B",
+          "Texto": "Cristovão Buarque"
+        },
+        {
+          "Label": "C",
+          "Texto": "Cristovão Colombo"
+        },
+        {
+          "Label": "D",
+          "Texto": "Pedro Álvares Cabral"
+        },
+        {
+          "Label": "E",
+          "Texto": "Pedro Álvares de Lara"
+        }
+      ],
+      "Correta": {
+        "Label": "D",
+        "Texto": "Pedro Álvares Cabral"
+      }
+    }
+  ]
+}
